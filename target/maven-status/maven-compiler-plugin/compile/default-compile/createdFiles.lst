@@ -1,0 +1,5 @@
+com\kubernetes\product\example\ProductDetailsApplication.class
+com\kubernetes\product\example\controller\ProductController.class
+com\kubernetes\product\example\entity\Product.class
+com\kubernetes\product\example\service\ProductService.class
+com\kubernetes\product\example\repository\ProductRepository.class
